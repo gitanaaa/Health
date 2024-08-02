@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8bab337ab7101b45b47f88f714a1a17, type: 3}
+  m_Name: 11cola
+  m_EditorClassIdentifier: 
+  question: "\u3053\u306E\u306E\u307F\u3082\u306E\u306B\u306F\u3000\u3061\u3044\u3055\u3044\u30B9\u30D7\u30FC\u30F3(3\u30B0\u30E9\u30E0)\u3000\u306A\u3093\u3070\u3044\u3076\u3093\u306E\u3000\u3055\u3068\u3046\u304C\u3000\u306F\u3044\u3063\u3066\u3044\u308B\u3067\u3057\u3087\u3046\u304B\uFF1F"
+  answers:
+  - "19\u306F\u3044\u3076\u3093"
+  - "17\u306F\u3044\u3076\u3093"
+  - "23\u306F\u3044\u3076\u3093"
+  - "29\u306F\u3044\u3076\u3093"
+  correctAnswerIndex: 0
+  questionImage: {fileID: 21300000, guid: 8487eb30a66e5a340b1e747893bf1890, type: 3}
